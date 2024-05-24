@@ -6,3 +6,6 @@ I am making my first change here.
 This is my first change in branch B.
 
 This is my second change in B.
+
+This is my first change in branch A.
+
